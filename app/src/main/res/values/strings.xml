@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Fin Track</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="lkr_0_00">LKR 0.00</string>
+    <string name="add_budget">Add Budget</string>
+    <string name="save_budget">Save Budget</string>
+    <string name="monthly_budget_lkr_0">Monthly Budget : LKR 0</string>
+    <string name="total_expenses_lkr_0">Total Expenses : LKR 0</string>
+    <string name="transaction">Transaction</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="budget">Budget</string>
+    <string name="setting">Setting</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="lkr_0_001">LKR 0.00</string>
+    <string name="income">Income</string>
+    <string name="lkr0_00">LKR 0.00</string>
+    <string name="expense">Expense</string>
+    <string name="lkr_000">LKR 0.00</string>
+    <string name="welcome_to_fintrack">Welcome to FinTrack</string>
+    <string name="next">NEXT</string>
+    <string name="backup">Backup</string>
+    <string name="export_data">EXPORT DATA</string>
+    <string name="restore_data">RESTORE DATA</string>
+    <string name="add_new_transaction">Add New Transaction</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_date">Add Date</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="_100_00">100.00</string>
+    <string name="salary">Salary</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="monthly_salary">monthly salary</string>
+    <string name="apr_24_2025_15_59">Apr 24, 2025 15:59</string>
+</resources>
